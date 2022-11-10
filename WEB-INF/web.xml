@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>QA</servlet-name>
+<servlet-class>Questions</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>QA</servlet-name>
+<url-pattern>/QA</url-pattern>
+</servlet-mapping>
+</web-app>
